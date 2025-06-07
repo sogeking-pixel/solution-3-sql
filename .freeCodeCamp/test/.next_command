@@ -61,3 +61,4 @@ git config --global user.email 52290162+sogeking-pixel@users.noreply.github.com
 clear
 git config --global user.email 52290162+sogeking-pixel@users.noreply.github.com
 git config user.email
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
