@@ -1,0 +1,3 @@
+psql -U freecodecamp -f start.sql
+
+psql -U freecodecamp -d salon -f example.sql
