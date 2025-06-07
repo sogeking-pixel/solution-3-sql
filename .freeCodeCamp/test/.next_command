@@ -59,3 +59,5 @@ psql -U freecodecamp -f start.sql
 psql -U freecodecamp -d salon -f example.sql
 git config --global user.email 52290162+sogeking-pixel@users.noreply.github.com
 clear
+git config --global user.email 52290162+sogeking-pixel@users.noreply.github.com
+git config user.email
